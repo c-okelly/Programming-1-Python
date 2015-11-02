@@ -2,6 +2,8 @@ __author__ = "Conor O'Kelly"
 """
 pseudocode
 
+Using old formula from previous work
+
 if the nubmer less then or equal to 0 print out error
 
 if number is 1 print out sereis is 1
