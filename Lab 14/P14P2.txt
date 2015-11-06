@@ -1,0 +1,11 @@
+
+
+Due to the method I used for the first section I found two errors occouring.
+
+When the input was increased the program eventully gave a recursion depth error once the limit reached 997.
+
+The system stated RuntimeError: maximum recursion depth exceeded
+
+When i increased the limits on the recursion depth python would eventully crash with a system error about 100000.
+
+In compariosn the non-recursive function was able to keep functioning.

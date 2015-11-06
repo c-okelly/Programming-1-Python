@@ -1,0 +1,11 @@
+I looked at two previous functions I had created for finding the factorial of a number.
+
+The first was one that found the result in a non recursive way.
+
+The second used recursion.
+
+I found a method to time the running of function and also increased the maximum resursive depth allowd by the system
+
+I used the number 10,000 for my tests.
+
+Using this method I found that the recursive method took 0.006 of a second longer to run
