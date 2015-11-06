@@ -1,0 +1,14 @@
+
+a.
+
+The program returns a null value.
+
+When you attempt to print a print_max() it first runs the program asking for number and printing the largest then print the return result. It print None
+
+b.
+
+Nothing happens as the print_max is meaningless and the function is not called
+
+c.
+
+The location im memory of the function is printed
