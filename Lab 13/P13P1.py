@@ -14,7 +14,6 @@ def max(a, b):  #take to arguemtns and returns the largest
     else:
         return b
 
-
     # Prompt the user for two numbers
 
 def get_input(): # Function to get input number
