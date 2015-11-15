@@ -1,6 +1,8 @@
 __author__ = 'conor'
 
+# To get system time
 import time
+
 import sys
 sys.setrecursionlimit(1000000)
 
@@ -43,7 +45,7 @@ def recursive():
 
     print("recursive")
     start_time = time.time()
-    get_factorial(100000)
+    get_factorial(10000)
     print("--- %s seconds ---" % (time.time() - start_time))
 
 def main():

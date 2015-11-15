@@ -11,20 +11,20 @@ def main():
     for number in range(2, 20):
         # List of factors for a particular number
         factor_list = []
-        for i in range(2, number):
-
+        for i in range(1, number):
             if number % i == 0:
-                factor = "%i * %i" % (number/i, i)
+                factor = ("%i * %i") % (number/i, i)
                 #print(number, factor)
                 factor_list.append(factor)
 
         if len(factor_list) == 0:
             # loop fell through without finding a factor
-            print number, "is a prime number"
+            print (number, "is a prime number")
 
         else:
-            print("The factors for %i are %s") % (number, factor_list)
+            print(("The factors for %i are %s") % (number, factor_list))
 
-    print "Finished!"
+
+    print ("Finished!")
 
 main()
