@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57224be1-24ea-4b5c-9711-7b0c977bcfaf" name="Default" comment="" />
+    <list default="true" id="57224be1-24ea-4b5c-9711-7b0c977bcfaf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab 16/P16P2.py" afterPath="$PROJECT_DIR$/Lab 16/P16P2.py" />
+    </list>
     <ignored path="Programming 1 - Python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,21 +27,37 @@
         <entry file="file://$PROJECT_DIR$/Lab 16/P16P1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding>
                 <element signature="e#22#293#1" expanded="false" />
-                <element signature="e#555#647#0" expanded="false" />
+                <element signature="e#319#531#0" expanded="false" />
+                <element signature="e#671#871#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P16P2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P16P2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab 16/P16P2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04731861">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#22#413#1" expanded="false" />
+                <element signature="e#1145#1238#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P16P3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab 16/P16P3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6687697">
+              <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+              <folding>
+                <element signature="e#899#990#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,6 +110,7 @@
         <option value="$PROJECT_DIR$/Lab 15/P15P1.py" />
         <option value="$PROJECT_DIR$/Lab 14/P14P1.txt" />
         <option value="$PROJECT_DIR$/Lab 16/P16P1.py" />
+        <option value="$PROJECT_DIR$/Lab 16/P16P3.py" />
         <option value="$PROJECT_DIR$/Lab 16/P16P2.py" />
       </list>
     </option>
@@ -201,41 +220,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Python.P15P3">
-    <configuration default="false" name="P14P4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Programming 1 - Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 14/P14P4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="P14P5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Programming 1 - Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 14/P14P5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.P16P2">
     <configuration default="false" name="P15P1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,6 +268,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Programming 1 - Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 15/P15P3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P16P3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming 1 - Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 16/P16P3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="P16P2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Programming 1 - Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 16/P16P2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -410,19 +429,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.P14P4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.P14P5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.P15P1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.P15P2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.P15P3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.P15P1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.P15P2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.P15P3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.P16P3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.P16P2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.P15P3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.P15P2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.P15P1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.P14P5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.P14P4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.P16P2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.P16P3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.P15P3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.P15P2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.P15P1" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +470,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.4939577" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299595" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5060423" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -482,14 +501,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab 14/P14P3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab 14/P14P4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -866,19 +877,33 @@
     <entry file="file://$PROJECT_DIR$/Lab 16/P16P1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding>
             <element signature="e#22#293#1" expanded="false" />
-            <element signature="e#555#647#0" expanded="false" />
+            <element signature="e#319#531#0" expanded="false" />
+            <element signature="e#671#871#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab 16/P16P2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04731861">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#413#1" expanded="false" />
+            <element signature="e#1145#1238#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 16/P16P3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6687697">
+          <caret line="45" column="38" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+          <folding>
+            <element signature="e#899#990#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
