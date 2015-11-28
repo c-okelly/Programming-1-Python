@@ -31,7 +31,7 @@ def test_for_palidrome():
 
 
 def string_input():
-    words = raw_input("Please give a number to check if a palidrome.\n")
+    words = raw_input("Please give a word to check if a palidrome.\n")
     return words.lower()
 
 if __name__ == '__main__':

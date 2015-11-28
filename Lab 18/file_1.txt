@@ -1,0 +1,1 @@
+< was found 1873 times, > was found 1779 times, new line <br> was found 2 times, e was found 13574 times, <!-- was found 46 times and --> was found 46 times
